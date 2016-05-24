@@ -21,6 +21,8 @@
     NSString * str = @"这是主分支";
     NSLog(@"%@",str);
     
+    NSString * str1 = @"这是开发分支";
+    NSLog(@"%@",str1);
 }
 
 - (void)didReceiveMemoryWarning {
