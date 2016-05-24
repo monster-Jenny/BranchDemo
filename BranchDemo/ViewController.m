@@ -25,6 +25,12 @@
     NSLog(@"%@",str1);
 }
 
+- (void)master
+{
+    NSString * str = @"这是主分支";
+    NSLog(@"%@",str);
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
