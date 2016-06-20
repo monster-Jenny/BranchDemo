@@ -31,6 +31,12 @@
     NSLog(@"%@",str);
 }
 
+- (void)master1
+{
+    NSLog(@"2016年6月20日master");
+}
+
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
