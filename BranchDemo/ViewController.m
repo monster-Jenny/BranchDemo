@@ -31,6 +31,11 @@
     NSLog(@"%@",str);
 }
 
+- (void)develop
+{
+    NSLog(@"2016年6月20日develop");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
